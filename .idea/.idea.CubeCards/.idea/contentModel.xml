@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\PanPiotr\.Rider2017.3\system\resharper-host\local\Transient\ReSharperHost\v11\SolutionCaches\_CubeCards.-1259934396.00" t="ExcludeRecursive" />
+    <e p="C:\Users\PanPiotr\Documents\CubeCards" t="IncludeRecursive">
+      <e p="Assembly-CSharp-Editor-firstpass.csproj" t="IncludeRecursive" />
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="Plugins" t="Include">
+          <e p="Editor" t="Include">
+            <e p="JetBrains" t="Include">
+              <e p="Unity3DRider.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Scripts" t="Include">
+          <e p="BoardCreatorScript.cs" t="Include" />
+          <e p="BoardUtil.cs" t="Include" />
+          <e p="CardCreator.cs" t="Include" />
+          <e p="CardLibrary.cs" t="Include" />
+          <e p="Cards" t="Include">
+            <e p="CardBaseLogic.cs" t="Include" />
+          </e>
+          <e p="CubeObject.cs" t="Include" />
+          <e p="CustomEventManager.cs" t="Include" />
+          <e p="Deck.cs" t="Include" />
+          <e p="DefaultPhysics.cs" t="Include" />
+          <e p="EffectLibrary.cs" t="Include" />
+          <e p="Follow.cs" t="Include" />
+          <e p="MeshUtil.cs" t="Include" />
+          <e p="MobLogic.cs" t="Include" />
+          <e p="MobSpawner.cs" t="Include" />
+          <e p="Mover.cs" t="Include" />
+          <e p="PlayerLogic.cs" t="Include" />
+          <e p="SpellBase.cs" t="Include" />
+          <e p="Spells" t="Include">
+            <e p="Blink.cs" t="Include" />
+            <e p="Fireball.cs" t="Include" />
+            <e p="Heal.cs" t="Include" />
+            <e p="Thunderball.cs" t="Include" />
+          </e>
+        </e>
+      </e>
+      <e p="CubeCards.sln" t="IncludeFlat" />
+      <e p="Library" t="ExcludeRecursive" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="Temp" t="ExcludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+      </e>
+    </e>
+  </component>
+</project>
