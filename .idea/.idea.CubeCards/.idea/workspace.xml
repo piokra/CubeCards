@@ -1,12 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="aa0f1a29-f281-43b4-a641-9e95fdd4efb0" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Cards/CardBaseLogic.cs" afterPath="$PROJECT_DIR$/Assets/Scripts/Cards/CardBaseLogic.cs" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/CustomEventManager.cs" afterPath="$PROJECT_DIR$/Assets/Scripts/CustomEventManager.cs" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Spells/Heal.cs" afterPath="$PROJECT_DIR$/Assets/Scripts/Spells/Heal.cs" />
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/GraphicsSettings.asset" afterPath="$PROJECT_DIR$/ProjectSettings/GraphicsSettings.asset" />
-    </list>
+    <list default="true" id="aa0f1a29-f281-43b4-a641-9e95fdd4efb0" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -336,7 +331,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="2591" />
     <option name="y" value="-35" />
     <option name="width" value="1920" />
@@ -417,12 +412,12 @@
       <workItem from="1530258844568" duration="9890000" />
       <workItem from="1530403929479" duration="1790000" />
       <workItem from="1530408215823" duration="7675000" />
-      <workItem from="1530437382548" duration="21281000" />
+      <workItem from="1530437382548" duration="21695000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="68343000" />
+    <option name="totallyTimeSpent" value="68757000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -434,7 +429,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="2391" y="-9" width="2418" height="1318" extended-state="6" />
+    <frame x="2391" y="-9" width="2418" height="1318" extended-state="7" />
     <editor active="true" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
