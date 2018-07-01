@@ -1,12 +1,5 @@
-﻿using System;
-using System.Collections;
-using System.Collections.Generic;
-using System.Security.Cryptography;
-using NUnit.Framework.Constraints;
-using UnityEditor.PackageManager;
-using UnityEditorInternal;
+﻿using System.Collections.Generic;
 using UnityEngine;
-using UnityEngine.EventSystems;
 
 public class CustomEventManager : MonoBehaviour
 {
